@@ -1,0 +1,4 @@
+Employee Name   ID             Salary
+John Doe        101           4500.50
+Jane Smith      102           5500.75
+Alice Brown     103           6300.00
